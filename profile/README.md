@@ -6,3 +6,7 @@
   
 <b>Lisens</b>
 -	Dersom koden er lisensiert vil dette være angitt LICENCE-fil i hvert enkelt repository
+
+<b>Jobbe hos oss?</b>
+- Vi trenger stadig flere IT-medarbeidere.
+👉 <strong><a href="https://www.miljodirektoratet.no/om-oss/jobbe-i-miljodirektoratet/" rel="nofollow">Se ledige stillinger</a></strong><br>
